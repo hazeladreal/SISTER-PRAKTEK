@@ -1,0 +1,5 @@
+com\hazel\matakuliah\service\MatakuliahService.class
+com\hazel\matakuliah\MatakuliahApplication.class
+com\hazel\matakuliah\controller\MatakuliahController.class
+com\hazel\matakuliah\repository\MatakuliahRepository.class
+com\hazel\matakuliah\entity\Matakuliah.class
