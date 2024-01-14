@@ -1,0 +1,8 @@
+com\hazel\nilai\repository\NilaiRepository.class
+com\hazel\nilai\service\NilaiService.class
+com\hazel\nilai\NilaiApplication.class
+com\hazel\nilai\vo\ResponseTemplate.class
+com\hazel\nilai\vo\Mahasiswa.class
+com\hazel\nilai\vo\Matakuliah.class
+com\hazel\nilai\controller\NilaiController.class
+com\hazel\nilai\entity\Nilai.class
