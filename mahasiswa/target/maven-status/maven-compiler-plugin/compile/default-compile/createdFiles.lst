@@ -1,0 +1,5 @@
+com\hazel\mahasiswa\service\MahasiswaService.class
+com\hazel\mahasiswa\entity\Mahasiswa.class
+com\hazel\mahasiswa\controller\MahasiswaController.class
+com\hazel\mahasiswa\MahasiswaApplication.class
+com\hazel\mahasiswa\repository\MahasiswaRepository.class
